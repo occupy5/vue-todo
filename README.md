@@ -1,7 +1,7 @@
 ## 前面
 vue + webpack 实现一个简单的 todo app
 
-## 项目预览
+## [项目预览](http://5bang.top/vue-todo/dist/index.html)
 ![todo-app](http://oxuk2wfkl.bkt.clouddn.com/todo1.png)
 
 ## 目录结构 
